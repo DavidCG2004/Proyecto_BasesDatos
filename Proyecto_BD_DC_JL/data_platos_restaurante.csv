@@ -1,0 +1,495 @@
+id_plato,nombre,descripcion,precio,id_categoria
+6,Bruschetta de Tomate y Albahaca,"Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",6.50,1
+7,Calamares a la Romana,"Anillos de calamar rebozados y fritos, servidos con limon y salsa tartara.",12.80,1
+8,Guacamole con Totopos,"Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",9.00,1
+9,Provoleta a la Parrilla,"Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",10.50,1
+10,Ceviche de Pescado Clasico,"Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",14.20,1
+11,Empanadas de Carne,"Masa rellena de carne molida sazonada, horneada o frita.",7.80,1
+12,Carpaccio de Res,"Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",15.50,1
+13,Tostadas de Tinga de Pollo,"Tostadas crujientes con pollo deshebrado en salsa de chipotle.",8.90,1
+14,Hummus con Pan Pita,"Pure de garbanzos con tahini, limon y ajo, servido con pan pita caliente.",8.50,1
+15,Patatas Bravas,"Papas cortadas en cubos, fritas y servidas con salsa brava picante.",7.20,1
+16,Sopa de Tortilla,"Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",9.50,1
+17,Queso Fundido con Chorizo,"Mezcla de quesos derretidos con chorizo, servido con tortillas.",11.80,1
+18,Edamame al Vapor,"Vainas de soja jovenes hervidas y sazonadas con sal marina.",6.80,1
+19,Rollitos de Primavera,"Rollos fritos rellenos de vegetales y carne.",7.50,1
+20,Satay de Pollo,"Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",10.20,1
+21,Croquetas de Jamon Serrano,"Cremosas croquetas rellenas de jamon serrano.",9.80,1
+22,Ensalada Caprese,"Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",11.50,1
+23,Pulpo a la Gallega,"Pulpo cocido con papas, pimenton y aceite de oliva.",18.50,1
+24,Alitas de Pollo BBQ,"Alitas de pollo fritas y banadas en salsa barbacoa.",12.00,1
+25,Nachos Supremos,"Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",13.50,1
+26,Lomo Saltado,"Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",18.90,2
+27,Paella Valenciana,"Arroz con azafran, pollo, conejo, judias verdes y garrofon.",24.50,2
+28,Spaghetti alla Carbonara,"Pasta con huevo, queso pecorino, panceta y pimienta negra.",16.50,2
+29,Salmon a la Plancha con Verduras,"Filete de salmon a la plancha con esparragos y brocoli al vapor.",22.00,2
+30,Bife de Chorizo con Chimichurri,"Corte de carne de res a la parrilla servido con salsa chimichurri.",25.50,2
+31,Pollo al Curry con Arroz Basmati,"Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",17.80,2
+32,Ramen de Cerdo (Tonkotsu),"Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",18.50,2
+33,Lasagna Bolognesa,"Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",17.00,2
+34,Tacos al Pastor,"Carne de cerdo marinada cocinada en un trompo, servida en tortillas de maiz con pina.",14.50,2
+35,Risotto de Champinones,"Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",19.00,2
+36,Pato a la Naranja,"Pato asado con una salsa agridulce de naranja.",28.00,2
+37,Cochinillo Asado,"Cochinillo tierno y crujiente asado lentamente.",35.00,2
+38,Fettuccine Alfredo con Pollo,"Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",18.00,2
+39,Mole Poblano con Pollo,"Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",19.50,2
+40,Sushi Variado (Moriawase),"Seleccion de nigiris y makis del chef.",26.00,2
+41,Filete Mignon,"Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",32.00,2
+42,Pad Thai,"Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",17.50,2
+43,Costillas de Cerdo en Salsa BBQ,"Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",23.50,2
+44,Pizza Margherita,"Pizza clasica con salsa de tomate, mozzarella fresca y albahaca.",15.00,2
+45,Churrasco Brasileno,"Seleccion de carnes a la espada servidas en la mesa.",34.00,2
+46,Hamburguesa Clasica con Papas,"Hamburguesa de res con lechuga, tomate, cebolla, queso y papas fritas.",14.80,2
+47,Milanesa a la Napolitana,"Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",18.50,2
+48,Goulash Hungaro,"Estofado de carne de res con pimenton, servido con noquis o pan.",20.00,2
+49,Cazuela de Mariscos,"Surtido de mariscos cocidos en un caldo aromatico.",24.00,2
+50,Pescado a la Talla,"Pescado entero marinado con adobo rojo y verde, asado a las brasas.",21.50,2
+51,Tiramisu,"Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",8.50,3
+52,Flan de Caramelo (Creme Caramel),"Postre de huevos, leche y azucar, con una capa de caramelo liquido.",6.50,3
+53,Tarta de Queso (Cheesecake),"Tarta cremosa de queso sobre una base de galleta, con cobertura de frutos rojos.",7.80,3
+54,Mousse de Chocolate,"Espuma de chocolate aireada y rica, servida fria.",7.00,3
+55,Crepas Suzette,"Crepas finas banadas en una salsa de mantequilla, azucar, y licor de naranja, flambeada.",9.50,3
+56,Pastel de Tres Leches,"Bizcocho banado en una mezcla de tres tipos de leche, cubierto con merengue o crema batida.",8.00,3
+57,Helado Artesanal (2 bolas),"Seleccion de sabores de helado hecho en casa.",5.50,3
+58,Brownie con Helado de Vainilla,"Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",8.20,3
+59,Panna Cotta,"Postre italiano de crema cocida, a menudo servido con coulis de frutas.",7.50,3
+60,Churros con Chocolate,"Masa frita espolvoreada con azucar, para mojar en chocolate caliente espeso.",7.00,3
+61,Tarta Tatin,"Tarta de manzana caramelizada en la que las manzanas se cocinan en mantequilla y azucar antes de hornear la masa.",9.00,3
+62,Volcan de Chocolate,"Pequeno pastel de chocolate con un centro liquido, servido caliente.",9.80,3
+63,Arroz con Leche,"Arroz cocido lentamente en leche con azucar y canela.",5.80,3
+64,Frutas de Temporada Fileteadas,"Plato de frutas frescas de la estacion.",6.00,3
+65,Crema Catalana,"Postre similar al creme brulee, con una base de crema pastelera y una capa de azucar caramelizado.",7.20,3
+66,Baklava,"Pastel de masa filo relleno de nueces trituradas y banado en almibar o miel.",8.50,3
+67,Alfajores de Maicena,"Dos galletas suaves unidas por dulce de leche y rebozadas en coco rallado.",5.00,3
+68,Gelatina de Mosaico,"Cubos de gelatina de varios sabores suspendidos en una gelatina de leche.",4.50,3
+69,Profiteroles con Chocolate,"Pequenos bunuelos de masa choux rellenos de crema y cubiertos con salsa de chocolate.",8.80,3
+70,Sorbete de Limon,"Nieve a base de agua, jugo de limon y azucar.",5.20,3
+71,Agua Fresca (Jamaica, Horchata, Tamarindo),"Bebida refrescante a base de agua, flores, cereales o frutas.",3.00,4
+72,Jugo Natural (Naranja, Fresa, Mango),"Jugo recien exprimido de frutas de temporada.",4.00,4
+73,Limonada Clasica,"Jugo de limon fresco, agua y azucar.",3.50,4
+74,Te Helado (Limon o Durazno),"Te negro enfriado, endulzado y con sabor a limon o durazno.",3.20,4
+75,Cafe Americano,"Cafe espresso diluido con agua caliente.",2.80,4
+76,Cappuccino,"Cafe espresso con leche vaporizada y espuma de leche.",4.20,4
+77,Refresco (Coca-Cola, Sprite, etc.),"Bebida carbonatada de maquina o lata.",2.50,4
+78,Cerveza Nacional,"Botella de cerveza local popular.",3.50,4
+79,Cerveza de Barril,"Vaso de cerveza servida desde el barril.",4.00,4
+80,Copa de Vino Tinto de la Casa,"Vino tinto seleccionado por el restaurante.",6.00,4
+81,Copa de Vino Blanco de la Casa,"Vino blanco seleccionado por el restaurante.",6.00,4
+82,Margarita,"Coctel de tequila, licor de naranja y jugo de lima.",9.00,4
+83,Mojito,"Coctel cubano de ron, menta, lima, azucar y agua con gas.",8.50,4
+84,Pina Colada,"Coctel de ron, crema de coco y jugo de pina.",9.50,4
+85,Agua Mineral,"Botella de agua con gas.",2.80,4
+86,Chocolate Caliente,"Bebida caliente a base de chocolate o cacao en polvo disuelto en leche.",4.50,4
+87,Te Caliente (Manzanilla, Verde, Negro),"Infusion de hierbas o te en agua caliente.",3.00,4
+88,Batido de Frutas,"Frutas mezcladas con leche o yogur.",5.00,4
+89,Sangria,"Bebida a base de vino tinto, frutas picadas y un poco de licor.",7.50,4
+90,Clericot,"Bebida similar a la sangria pero preparada con vino blanco o rosado.",7.50,4
+91,Lomo Saltado del Chef,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",24.89,2
+92,Carpaccio de Res con Hongos,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",22.06,1
+93,Hummus con Pan Pita Rustico,"Una variacion de nuestro plato 'Hummus con Pan Pita'. Pure de garbanzos con tahini, limon y ajo, servido con pan pita caliente.",9.72,1
+94,Tacos al Pastor con Queso Extra,"Una variacion de nuestro plato 'Tacos al Pastor'. Carne de cerdo marinada cocinada en un trompo, servida en tortillas de maiz con pina.",21.23,2
+95,Alitas de Pollo BBQ a la Diabla,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",14.99,1
+96,Ensalada Caprese Gourmet,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",15.19,1
+97,Cochinillo Asado de la Casa,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.02,2
+98,Provoleta a la Parrilla con Camarones,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.47,1
+99,Tarta de Queso con Frutos Rojos,"Una variacion de nuestro plato 'Tarta de Queso (Cheesecake)'. Tarta cremosa de queso sobre una base de galleta, con cobertura de frutos rojos.",9.91,3
+100,Fettuccine Alfredo con Pollo al Ajillo,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",20.39,2
+101,Jugo Natural de Maracuya,"Una variacion de nuestro plato 'Jugo Natural (Naranja, Fresa, Mango)'. Jugo recien exprimido de frutas de temporada.",4.43,4
+102,Lomo Saltado Vegetariano,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",25.99,5
+103,Hamburguesa Clasica con Papas Rustico,"Una variacion de nuestro plato 'Hamburguesa Clasica con Papas'. Hamburguesa de res con lechuga, tomate, cebolla, queso y papas fritas.",21.78,2
+104,Calamares a la Romana Especial,"Una variacion de nuestro plato 'Calamares a la Romana'. Anillos de calamar rebozados y fritos, servidos con limon y salsa tartara.",16.66,5
+105,Pizza Margherita con Hongos,"Una variacion de nuestro plato 'Pizza Margherita'. Pizza clasica con salsa de tomate, mozzarella fresca y albahaca.",17.76,2
+106,Mousse de Chocolate con Chocolate Belga,"Una variacion de nuestro plato 'Mousse de Chocolate'. Espuma de chocolate aireada y rica, servida fria.",12.44,3
+107,Filete Mignon del Chef,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.42,2
+108,Batido de Frutas de Mango,"Una variacion de nuestro plato 'Batido de Frutas'. Frutas mezcladas con leche o yogur.",6.36,4
+109,Tostadas de Tinga de Pollo con Queso Extra,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",10.42,1
+110,Milanesa a la Napolitana Moderno,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",27.06,2
+111,Pescado a la Talla Fusion,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",29.08,2
+112,Pastel de Tres Leches con Dulce de Leche,"Una variacion de nuestro plato 'Pastel de Tres Leches'. Bizcocho banado en una mezcla de tres tipos de leche, cubierto con merengue o crema batida.",10.16,3
+113,Pad Thai Vegetariano,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",23.95,2
+114,Limonada Clasica de Maracuya,"Una variacion de nuestro plato 'Limonada Clasica'. Jugo de limon fresco, agua y azucar.",4.04,4
+115,Satay de Pollo Tradicional,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",11.53,1
+116,Ramen de Cerdo (Tonkotsu) Especial,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",22.04,2
+117,Pulpo a la Gallega de la Casa,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",24.18,1
+118,Risotto de Champinones con Camarones,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",26.31,2
+119,Crepas Suzette con Chocolate Belga,"Una variacion de nuestro plato 'Crepas Suzette'. Crepas finas banadas en una salsa de mantequilla, azucar, y licor de naranja, flambeada.",14.16,3
+120,Churros con Chocolate con Dulce de Leche,"Una variacion de nuestro plato 'Churros con Chocolate'. Masa frita espolvoreada con azucar, para mojar en chocolate caliente espeso.",9.25,3
+121,Guacamole con Totopos Clasico,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",10.02,1
+122,Costillas de Cerdo en Salsa BBQ Moderno,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",27.60,2
+123,Sopa de Tortilla con Pollo,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",13.20,1
+124,Goulash Hungaro de la Casa,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.62,2
+125,Bife de Chorizo con Chimichurri con Hongos,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.62,2
+126,Empanadas de Carne con Queso Extra,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",9.23,1
+127,Spaghetti alla Carbonara Tradicional,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",20.73,2
+128,Paella Valenciana de la Casa,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",34.02,2
+129,Volcan de Chocolate con Frutos Rojos,"Una variacion de nuestro plato 'Volcan de Chocolate'. Pequeno pastel de chocolate con un centro liquido, servido caliente.",12.72,3
+130,Queso Fundido con Chorizo al Ajillo,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",14.33,1
+131,Nachos Supremos con Pollo,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",20.40,1
+132,Pato a la Naranja del Chef,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.80,2
+133,Salmon a la Plancha con Verduras al Ajillo,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",27.02,2
+134,Jugo Natural con Hierbabuena,"Una variacion de nuestro plato 'Jugo Natural (Naranja, Fresa, Mango)'. Jugo recien exprimido de frutas de temporada.",4.43,4
+135,Helado Artesanal con Nuez,"Una variacion de nuestro plato 'Helado Artesanal (2 bolas)'. Seleccion de sabores de helado hecho en casa.",6.92,3
+136,Mole Poblano con Pollo Tradicional,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",25.96,2
+137,Ceviche de Pescado Clasico Fusion,"Una variacion de nuestro plato 'Ceviche de Pescado Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.14,1
+138,Lasagna Bolognesa de la Casa,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",22.06,2
+140,Tiramisu con Chocolate Belga,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",10.68,3
+141,Churrasco Brasileno del Chef,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",47.53,2
+142,Pollo al Curry con Arroz Basmati Vegetariano,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",23.97,2
+143,Cazuela de Mariscos a la Diabla,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",35.63,2
+144,Bruschetta de Tomate y Albahaca Rustico,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",7.49,1
+145,Patatas Bravas Clasico,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",9.32,1
+146,Limonada Clasica de Fresa,"Una variacion de nuestro plato 'Limonada Clasica'. Jugo de limon fresco, agua y azucar.",4.75,4
+147,Filete Mignon con Hongos,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.40,2
+148,Helado Artesanal con Dulce de Leche,"Una variacion de nuestro plato 'Helado Artesanal (2 bolas)'. Seleccion de sabores de helado hecho en casa.",7.43,3
+149,Edamame al Vapor Rustico,"Una variacion de nuestro plato 'Edamame al Vapor'. Vainas de soja jovenes hervidas y sazonadas con sal marina.",8.64,1
+150,Croquetas de Jamon Serrano Tradicional,"Una variacion de nuestro plato 'Croquetas de Jamon Serrano'. Cremosas croquetas rellenas de jamon serrano.",13.88,1
+151,Pescado a la Talla con Camarones,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",24.16,2
+152,Rollitos de Primavera Vegetariano,"Una variacion de nuestro plato 'Rollitos de Primavera'. Rollos fritos rellenos de vegetales y carne.",10.43,1
+153,Sushi Variado (Moriawase) del Chef,"Una variacion de nuestro plato 'Sushi Variado (Moriawase)'. Seleccion de nigiris y makis del chef.",36.31,2
+154,Brownie con Helado de Vainilla con Nuez,"Una variacion de nuestro plato 'Brownie con Helado de Vainilla'. Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",12.78,3
+155,Batido de Frutas de Fresa,"Una variacion de nuestro plato 'Batido de Frutas'. Frutas mezcladas con leche o yogur.",6.84,4
+156,Lomo Saltado Clasico,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",23.49,2
+157,Carpaccio de Res Fusion,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",19.16,1
+158,Provoleta a la Parrilla Rustico,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.39,1
+159,Alitas de Pollo BBQ del Chef,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",16.51,1
+160,Ensalada Caprese de la Casa,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",14.38,1
+161,Cochinillo Asado Tradicional,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.33,2
+162,Tarta de Queso con Dulce de Leche,"Una variacion de nuestro plato 'Tarta de Queso (Cheesecake)'. Tarta cremosa de queso sobre una base de galleta, con cobertura de frutos rojos.",11.89,3
+163,Fettuccine Alfredo con Pollo Fusion,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",26.35,2
+164,Tostadas de Tinga de Pollo Especial,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",12.44,1
+165,Milanesa a la Napolitana del Chef,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",27.05,2
+166,Jugo Natural Doble,"Una variacion de nuestro plato 'Jugo Natural (Naranja, Fresa, Mango)'. Jugo recien exprimido de frutas de temporada.",4.43,4
+167,Pad Thai de la Casa,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",23.96,2
+168,Limonada Clasica Doble,"Una variacion de nuestro plato 'Limonada Clasica'. Jugo de limon fresco, agua y azucar.",4.83,4
+169,Satay de Pollo con Camarones,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",13.06,1
+170,Ramen de Cerdo (Tonkotsu) con Queso Extra,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",22.09,2
+171,Pulpo a la Gallega Moderno,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",27.64,1
+172,Risotto de Champinones Vegetariano,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",22.95,2
+173,Crepas Suzette con Nuez,"Una variacion de nuestro plato 'Crepas Suzette'. Crepas finas banadas en una salsa de mantequilla, azucar, y licor de naranja, flambeada.",11.77,3
+174,Churros con Chocolate con Frutos Rojos,"Una variacion de nuestro plato 'Churros con Chocolate'. Masa frita espolvoreada con azucar, para mojar en chocolate caliente espeso.",10.74,3
+175,Guacamole con Totopos del Chef,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",11.85,1
+176,Costillas de Cerdo en Salsa BBQ a la Diabla,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",32.84,2
+177,Sopa de Tortilla con Queso Extra,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",11.82,1
+178,Goulash Hungaro Moderno,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.18,2
+179,Bife de Chorizo con Chimichurri Fusion,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.40,2
+180,Empanadas de Carne a la Diabla,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",9.28,1
+181,Spaghetti alla Carbonara Gourmet,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",22.42,2
+182,Paella Valenciana Vegetariano,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",30.29,2
+183,Volcan de Chocolate con Dulce de Leche,"Una variacion de nuestro plato 'Volcan de Chocolate'. Pequeno pastel de chocolate con un centro liquido, servido caliente.",12.42,3
+184,Queso Fundido con Chorizo Tradicional,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",15.15,1
+185,Nachos Supremos Vegetariano,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",15.53,1
+186,Pato a la Naranja Clasico,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.68,2
+187,Salmon a la Plancha con Verduras de la Casa,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",26.12,2
+188,Helado Artesanal con Chocolate Belga,"Una variacion de nuestro plato 'Helado Artesanal (2 bolas)'. Seleccion de sabores de helado hecho en casa.",6.92,3
+189,Mole Poblano con Pollo del Chef,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",21.78,2
+190,Ceviche de Pescado Clasico con Camarones,"Una variacion de nuestro plato 'Ceviche de Pescado Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.16,1
+191,Lasagna Bolognesa con Hongos,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",24.08,2
+192,Tiramisu de la Casa,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",10.72,3
+193,Churrasco Brasileno con Queso Extra,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",43.34,2
+194,Pollo al Curry con Arroz Basmati del Chef,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",23.51,2
+195,Cazuela de Mariscos al Ajillo,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",28.84,2
+196,Bruschetta de Tomate y Albahaca Gourmet,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",9.06,1
+197,Patatas Bravas Especial,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",8.50,1
+198,Limonada Clasica con Hierbabuena,"Una variacion de nuestro plato 'Limonada Clasica'. Jugo de limon fresco, agua y azucar.",4.85,4
+199,Filete Mignon Especial,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.43,2
+200,Edamame al Vapor Fusion,"Una variacion de nuestro plato 'Edamame al Vapor'. Vainas de soja jovenes hervidas y sazonadas con sal marina.",10.15,1
+201,Croquetas de Jamon Serrano Rustico,"Una variacion de nuestro plato 'Croquetas de Jamon Serrano'. Cremosas croquetas rellenas de jamon serrano.",12.45,1
+202,Rollitos de Primavera con Camarones,"Una variacion de nuestro plato 'Rollitos de Primavera'. Rollos fritos rellenos de vegetales y carne.",10.75,1
+203,Sushi Variado (Moriawase) Especial,"Una variacion de nuestro plato 'Sushi Variado (Moriawase)'. Seleccion de nigiris y makis del chef.",36.37,5
+204,Brownie con Helado de Vainilla con Dulce de Leche,"Una variacion de nuestro plato 'Brownie con Helado de Vainilla'. Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",10.13,3
+205,Batido de Frutas Doble,"Una variacion de nuestro plato 'Batido de Frutas'. Frutas mezcladas con leche o yogur.",6.84,4
+206,Lomo Saltado Fusion,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",23.18,2
+207,Carpaccio de Res del Chef,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",21.22,1
+208,Provoleta a la Parrilla del Chef,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.28,1
+209,Alitas de Pollo BBQ con Queso Extra,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",14.12,1
+210,Ensalada Caprese con Pollo,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",18.33,5
+211,Cochinillo Asado Rustico,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.07,2
+212,Fettuccine Alfredo con Pollo con Hongos,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",20.50,2
+213,Tostadas de Tinga de Pollo Rustico,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",12.44,1
+214,Milanesa a la Napolitana con Hongos,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",26.15,2
+215,Pescado a la Talla del Chef,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",29.62,2
+216,Pad Thai Fusion,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",19.16,2
+217,Satay de Pollo Fusion,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",13.43,1
+218,Ramen de Cerdo (Tonkotsu) Fusion,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",25.92,2
+219,Pulpo a la Gallega Fusion,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",27.00,1
+220,Risotto de Champinones del Chef,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",26.13,2
+221,Guacamole con Totopos con Queso Extra,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",10.66,1
+222,Costillas de Cerdo en Salsa BBQ Rustico,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",32.22,2
+223,Sopa de Tortilla Tradicional,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",11.18,1
+224,Goulash Hungaro Vegetariano,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.16,2
+225,Bife de Chorizo con Chimichurri del Chef,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.10,2
+226,Empanadas de Carne con Hongos,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",11.33,1
+227,Spaghetti alla Carbonara con Pollo,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",20.52,2
+228,Paella Valenciana con Hongos,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",34.07,2
+229,Queso Fundido con Chorizo Rustico,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",15.42,1
+230,Nachos Supremos de la Casa,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",19.82,1
+231,Pato a la Naranja Rustico,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.58,2
+232,Salmon a la Plancha con Verduras Especial,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",27.18,5
+233,Mole Poblano con Pollo con Queso Extra,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",23.14,2
+234,Ceviche de Pescado Clasico del Chef,"Una variacion de nuestro plato 'Ceviche de Pescado Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.23,1
+235,Lasagna Bolognesa Rustico,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",24.18,2
+236,Tiramisu con Frutos Rojos,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",12.44,3
+237,Churrasco Brasileno Fusion,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",47.07,2
+238,Pollo al Curry con Arroz Basmati Rustico,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",19.89,2
+239,Cazuela de Mariscos Tradicional,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",32.55,2
+240,Bruschetta de Tomate y Albahaca con Camarones,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",9.13,1
+241,Patatas Bravas Rustico,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",9.33,1
+242,Filete Mignon con Camarones,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.49,2
+243,Edamame al Vapor con Queso Extra,"Una variacion de nuestro plato 'Edamame al Vapor'. Vainas de soja jovenes hervidas y sazonadas con sal marina.",8.62,1
+244,Croquetas de Jamon Serrano con Queso Extra,"Una variacion de nuestro plato 'Croquetas de Jamon Serrano'. Cremosas croquetas rellenas de jamon serrano.",13.91,1
+245,Rollitos de Primavera a la Diabla,"Una variacion de nuestro plato 'Rollitos de Primavera'. Rollos fritos rellenos de vegetales y carne.",10.65,1
+246,Sushi Variado (Moriawase) Fusion,"Una variacion de nuestro plato 'Sushi Variado (Moriawase)'. Seleccion de nigiris y makis del chef.",36.31,2
+247,Brownie con Helado de Vainilla con Chocolate Belga,"Una variacion de nuestro plato 'Brownie con Helado de Vainilla'. Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",11.77,3
+248,Lomo Saltado con Camarones,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",23.11,2
+249,Carpaccio de Res con Queso Extra,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",18.98,1
+250,Provoleta a la Parrilla Tradicional,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.44,1
+251,Alitas de Pollo BBQ Rustico,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",16.63,1
+252,Ensalada Caprese del Chef,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",15.15,1
+253,Cochinillo Asado Fusion,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.02,2
+254,Tacos al Pastor del Chef,"Una variacion de nuestro plato 'Tacos al Pastor'. Carne de cerdo marinada cocinada en un trompo, servida en tortillas de maiz con pina.",21.13,2
+255,Fettuccine Alfredo con Pollo Rustico,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",20.57,2
+256,Tostadas de Tinga de Pollo del Chef,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",12.42,1
+257,Milanesa a la Napolitana Rustico,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",27.06,2
+258,Pescado a la Talla Rustico,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",29.18,2
+259,Pad Thai con Hongos,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",19.16,2
+260,Satay de Pollo Rustico,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",13.43,1
+261,Ramen de Cerdo (Tonkotsu) Rustico,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",25.92,2
+262,Pulpo a la Gallega con Camarones,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",27.42,1
+263,Risotto de Champinones Fusion,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",26.31,2
+264,Guacamole con Totopos Fusion,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",10.68,1
+265,Costillas de Cerdo en Salsa BBQ con Hongos,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",32.84,2
+266,Sopa de Tortilla del Chef,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",13.20,1
+267,Goulash Hungaro con Hongos,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.62,2
+268,Bife de Chorizo con Chimichurri con Queso Extra,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.40,2
+269,Empanadas de Carne Fusion,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",11.33,1
+270,Spaghetti alla Carbonara con Hongos,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",20.73,2
+271,Paella Valenciana del Chef,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",34.02,2
+272,Queso Fundido con Chorizo con Hongos,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",15.15,1
+273,Nachos Supremos Especial,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",19.82,1
+274,Pato a la Naranja con Camarones,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.68,2
+275,Salmon a la Plancha con Verduras Rustico,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",27.08,2
+276,Mole Poblano con Pollo Fusion,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",23.14,2
+277,Ceviche de Pescado Clasico Rustico,"Una variacion de nuestro plato 'Ceviche de Pescado Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.16,1
+278,Lasagna Bolognesa con Pollo,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",24.08,2
+279,Tiramisu con Nuez,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",12.44,3
+280,Churrasco Brasileno con Hongos,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",47.53,2
+281,Pollo al Curry con Arroz Basmati con Camarones,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",23.51,2
+282,Cazuela de Mariscos Fusion,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",32.55,2
+283,Bruschetta de Tomate y Albahaca del Chef,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",9.06,1
+284,Patatas Bravas con Queso Extra,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",9.32,1
+285,Filete Mignon Rustico,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.49,2
+286,Edamame al Vapor del Chef,"Una variacion de nuestro plato 'Edamame al Vapor'. Vainas de soja jovenes hervidas y sazonadas con sal marina.",8.62,1
+287,Croquetas de Jamon Serrano del Chef,"Una variacion de nuestro plato 'Croquetas de Jamon Serrano'. Cremosas croquetas rellenas de jamon serrano.",13.88,1
+288,Rollitos de Primavera Rustico,"Una variacion de nuestro plato 'Rollitos de Primavera'. Rollos fritos rellenos de vegetales y carne.",10.75,1
+289,Sushi Variado (Moriawase) con Queso Extra,"Una variacion de nuestro plato 'Sushi Variado (Moriawase)'. Seleccion de nigiris y makis del chef.",36.31,2
+290,Brownie con Helado de Vainilla con Frutos Rojos,"Una variacion de nuestro plato 'Brownie con Helado de Vainilla'. Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",11.77,3
+291,Lomo Saltado del Chef,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",23.18,5
+292,Carpaccio de Res Rustico,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",18.98,1
+293,Provoleta a la Parrilla con Hongos,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.44,1
+294,Alitas de Pollo BBQ Fusion,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",16.63,1
+295,Ensalada Caprese Rustico,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",15.19,1
+296,Cochinillo Asado del Chef,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.33,2
+297,Tacos al Pastor Rustico,"Una variacion de nuestro plato 'Tacos al Pastor'. Carne de cerdo marinada cocinada en un trompo, servida en tortillas de maiz con pina.",21.13,2
+298,Fettuccine Alfredo con Pollo del Chef,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",20.50,2
+299,Tostadas de Tinga de Pollo Fusion,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",12.42,1
+300,Milanesa a la Napolitana Fusion,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",27.06,2
+301,Pescado a la Talla con Queso Extra,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",29.62,2
+302,Pad Thai del Chef,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",19.16,2
+303,Satay de Pollo con Hongos,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",13.43,1
+304,Ramen de Cerdo (Tonkotsu) del Chef,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",25.92,2
+305,Pulpo a la Gallega Rustico,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",27.42,1
+306,Risotto de Champinones Rustico,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",26.13,2
+307,Guacamole con Totopos Rustico,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",10.68,1
+308,Costillas de Cerdo en Salsa BBQ del Chef,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",32.22,2
+309,Sopa de Tortilla Rustico,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",13.20,1
+310,Goulash Hungaro Rustico,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.62,2
+311,Bife de Chorizo con Chimichurri Rustico,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.62,2
+312,Empanadas de Carne Rustico,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",11.33,1
+313,Spaghetti alla Carbonara Rustico,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",20.52,2
+314,Paella Valenciana Rustico,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",34.07,2
+315,Queso Fundido con Chorizo del Chef,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",15.42,1
+316,Nachos Supremos Rustico,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",19.82,1
+317,Pato a la Naranja Fusion,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.80,2
+318,Salmon a la Plancha con Verduras del Chef,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",27.18,2
+319,Mole Poblano con Pollo Rustico,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",23.14,2
+320,Ceviche de Pescado Clasico con Hongos,"Una variacion de nuestro plato 'Ceviche de Pescado Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.16,1
+321,Lasagna Bolognesa del Chef,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",24.18,2
+322,Tiramisu Rustico,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",12.44,3
+323,Churrasco Brasileno Rustico,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",47.07,2
+324,Pollo al Curry con Arroz Basmati Fusion,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",23.97,2
+325,Cazuela de Mariscos Rustico,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",32.84,2
+326,Bruschetta de Tomate y Albahaca Fusion,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",9.13,1
+327,Patatas Bravas del Chef,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",9.33,1
+328,Filete Mignon del Chef,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.49,5
+329,Edamame al Vapor con Hongos,"Una variacion de nuestro plato 'Edamame al Vapor'. Vainas de soja jovenes hervidas y sazonadas con sal marina.",8.64,1
+330,Croquetas de Jamon Serrano Fusion,"Una variacion de nuestro plato 'Croquetas de Jamon Serrano'. Cremosas croquetas rellenas de jamon serrano.",13.91,1
+331,Rollitos de Primavera del Chef,"Una variacion de nuestro plato 'Rollitos de Primavera'. Rollos fritos rellenos de vegetales y carne.",10.75,1
+332,Sushi Variado (Moriawase) Rustico,"Una variacion de nuestro plato 'Sushi Variado (Moriawase)'. Seleccion de nigiris y makis del chef.",36.37,2
+333,Brownie con Helado de Vainilla Rustico,"Una variacion de nuestro plato 'Brownie con Helado de Vainilla'. Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",12.78,3
+334,Lomo Saltado con Hongos,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",23.49,2
+335,Carpaccio de Res con Camarones,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",19.16,1
+336,Provoleta a la Parrilla Fusion,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.39,1
+337,Alitas de Pollo BBQ con Hongos,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",16.51,1
+338,Ensalada Caprese Fusion,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",15.15,1
+339,Cochinillo Asado con Hongos,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.07,2
+340,Tacos al Pastor Fusion,"Una variacion de nuestro plato 'Tacos al Pastor'. Carne de cerdo marinada cocinada en un trompo, servida en tortillas de maiz con pina.",21.23,2
+341,Fettuccine Alfredo con Pollo con Camarones,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",20.57,2
+342,Tostadas de Tinga de Pollo con Hongos,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",12.44,1
+343,Milanesa a la Napolitana con Camarones,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",27.05,2
+344,Pescado a la Talla con Hongos,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",29.18,2
+345,Pad Thai Rustico,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",19.89,2
+346,Satay de Pollo del Chef,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",13.06,1
+347,Ramen de Cerdo (Tonkotsu) con Hongos,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",25.92,2
+348,Pulpo a la Gallega con Hongos,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",27.64,1
+349,Risotto de Champinones con Hongos,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",26.31,2
+350,Guacamole con Totopos con Hongos,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",10.66,1
+351,Costillas de Cerdo en Salsa BBQ Fusion,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",32.84,2
+352,Sopa de Tortilla con Hongos,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",13.20,1
+353,Goulash Hungaro del Chef,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.18,2
+354,Bife de Chorizo con Chimichurri con Camarones,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.10,2
+355,Empanadas de Carne del Chef,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",11.33,1
+356,Spaghetti alla Carbonara del Chef,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",20.73,2
+357,Paella Valenciana Fusion,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",34.02,2
+358,Queso Fundido con Chorizo Fusion,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",15.15,1
+359,Nachos Supremos Fusion,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",19.82,1
+360,Pato a la Naranja con Hongos,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.58,2
+361,Salmon a la Plancha con Verduras Fusion,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",27.08,2
+362,Mole Poblano con Pollo con Hongos,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",23.14,2
+363,Ceviche de Pescado Clasico con Queso Extra,"Una variacion de nuestro plato 'Ceviche de Pescado Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.23,1
+364,Lasagna Bolognesa Fusion,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",24.08,2
+365,Tiramisu Fusion,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",12.44,3
+366,Churrasco Brasileno con Camarones,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",47.07,2
+367,Pollo al Curry con Arroz Basmati con Hongos,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",23.97,2
+368,Cazuela de Mariscos con Hongos,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",32.84,2
+369,Bruschetta de Tomate y Albahaca con Hongos,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",9.06,1
+370,Patatas Bravas Fusion,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",9.32,1
+371,Filete Mignon Fusion,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.43,2
+372,Edamame al Vapor con Camarones,"Una variacion de nuestro plato 'Edamame al Vapor'. Vainas de soja jovenes hervidas y sazonadas con sal marina.",8.64,1
+373,Croquetas de Jamon Serrano con Hongos,"Una variacion de nuestro plato 'Croquetas de Jamon Serrano'. Cremosas croquetas rellenas de jamon serrano.",13.88,1
+374,Rollitos de Primavera Fusion,"Una variacion de nuestro plato 'Rollitos de Primavera'. Rollos fritos rellenos de vegetales y carne.",10.65,1
+375,Sushi Variado (Moriawase) con Hongos,"Una variacion de nuestro plato 'Sushi Variado (Moriawase)'. Seleccion de nigiris y makis del chef.",36.31,2
+376,Brownie con Helado de Vainilla Fusion,"Una variacion de nuestro plato 'Brownie con Helado de Vainilla'. Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",12.78,3
+377,Lomo Saltado Rustico,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",23.11,2
+378,Carpaccio de Res con Hongos,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",18.98,1
+379,Provoleta a la Parrilla con Camarones,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.28,1
+380,Alitas de Pollo BBQ del Chef,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",16.63,1
+381,Ensalada Caprese con Hongos,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",15.19,1
+382,Cochinillo Asado con Camarones,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.33,2
+383,Tacos al Pastor con Hongos,"Una variacion de nuestro plato 'Tacos al Pastor'. Carne de cerdo marinada cocinada en un trompo, servida en tortillas de maiz con pina.",21.13,2
+384,Fettuccine Alfredo con Pollo Fusion,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",20.50,2
+385,Tostadas de Tinga de Pollo con Camarones,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",12.42,1
+386,Milanesa a la Napolitana del Chef,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",27.05,2
+387,Pescado a la Talla Fusion,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",29.62,2
+388,Pad Thai con Camarones,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",19.89,2
+389,Satay de Pollo con Camarones,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",13.43,1
+390,Ramen de Cerdo (Tonkotsu) con Camarones,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",25.92,2
+391,Pulpo a la Gallega del Chef,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",27.00,1
+392,Risotto de Champinones con Camarones,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",26.13,2
+393,Guacamole con Totopos con Camarones,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",10.66,1
+394,Costillas de Cerdo en Salsa BBQ con Camarones,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",32.22,2
+395,Sopa de Tortilla con Camarones,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",13.20,1
+396,Goulash Hungaro con Camarones,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.18,2
+397,Bife de Chorizo con Chimichurri del Chef,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.40,2
+398,Empanadas de Carne con Camarones,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",11.33,1
+399,Spaghetti alla Carbonara con Camarones,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",20.52,2
+400,Paella Valenciana con Camarones,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",34.07,2
+401,Queso Fundido con Chorizo con Camarones,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",15.42,1
+402,Nachos Supremos con Camarones,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",19.82,1
+403,Pato a la Naranja del Chef,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.68,2
+404,Salmon a la Plancha con Verduras con Camarones,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",27.02,2
+405,Mole Poblano con Pollo con Camarones,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",23.14,2
+406,Ceviche de Pescado Clasico con Camarones,"Una variacion de nuestro plato 'Ceviche de Pescado Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.14,1
+407,Lasagna Bolognesa con Camarones,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",24.18,2
+408,Tiramisu con Camarones,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",12.44,3
+409,Churrasco Brasileno del Chef,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",47.53,5
+410,Pollo al Curry con Arroz Basmati del Chef,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",23.97,5
+411,Cazuela de Mariscos del Chef,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",32.55,5
+412,Bruschetta de Tomate y Albahaca del Chef,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",9.13,5
+413,Patatas Bravas del Chef,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",9.33,5
+414,Filete Mignon del Chef,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.43,5
+415,Edamame al Vapor del Chef,"Una variacion de nuestro plato 'Edamame al Vapor'. Vainas de soja jovenes hervidas y sazonadas con sal marina.",8.62,5
+416,Croquetas de Jamon Serrano del Chef,"Una variacion de nuestro plato 'Croquetas de Jamon Serrano'. Cremosas croquetas rellenas de jamon serrano.",13.91,5
+417,Rollitos de Primavera del Chef,"Una variacion de nuestro plato 'Rollitos de Primavera'. Rollos fritos rellenos de vegetales y carne.",10.75,5
+418,Sushi Variado (Moriawase) del Chef,"Una variacion de nuestro plato 'Sushi Variado (Moriawase)'. Seleccion de nigiris y makis del chef.",36.37,5
+419,Brownie con Helado de Vainilla del Chef,"Una variacion de nuestro plato 'Brownie con Helado de Vainilla'. Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",12.78,5
+420,Lomo Saltado del Chef,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",23.49,5
+421,Carpaccio de Res del Chef,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",19.16,5
+422,Provoleta a la Parrilla del Chef,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.39,5
+423,Alitas de Pollo BBQ del Chef,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",16.51,5
+424,Ensalada Caprese del Chef,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",15.15,5
+425,Cochinillo Asado del Chef,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.07,5
+426,Tacos al Pastor del Chef,"Una variacion de nuestro plato 'Tacos al Pastor'. Carne de cerdo marinada cocinada en un trompo, servida en tortillas de maiz con pina.",21.23,5
+427,Fettuccine Alfredo con Pollo del Chef,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",20.57,5
+428,Tostadas de Tinga de Pollo del Chef,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",12.44,5
+429,Milanesa a la Napolitana del Chef,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",27.06,5
+430,Pescado a la Talla del Chef,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",29.18,5
+431,Pad Thai del Chef,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",19.89,5
+432,Satay de Pollo del Chef,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",13.06,5
+433,Ramen de Cerdo (Tonkotsu) del Chef,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",25.92,5
+434,Pulpo a la Gallega del Chef,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",27.42,5
+435,Risotto de Champinones del Chef,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",26.31,5
+436,Guacamole con Totopos del Chef,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",10.68,5
+437,Costillas de Cerdo en Salsa BBQ del Chef,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",32.84,5
+438,Sopa de Tortilla del Chef,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",13.20,5
+439,Goulash Hungaro del Chef,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.62,5
+440,Bife de Chorizo con Chimichurri del Chef,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.62,5
+441,Empanadas de Carne del Chef,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",11.33,5
+442,Spaghetti alla Carbonara del Chef,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",20.73,5
+443,Paella Valenciana del Chef,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",34.07,5
+444,Queso Fundido con Chorizo del Chef,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",15.15,5
+445,Nachos Supremos del Chef,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",19.82,5
+446,Pato a la Naranja del Chef,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.80,5
+447,Salmon a la Plancha con Verduras del Chef,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",27.18,5
+448,Mole Poblano con Pollo del Chef,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",23.14,5
+449,Ceviche de Pescado Clasico del Chef,"Una variacion de nuestro plato 'Ceviche de Pescado Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.23,5
+450,Lasagna Bolognesa del Chef,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",24.08,5
+451,Tiramisu del Chef,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",12.44,5
+452,Churrasco Brasileno del Chef,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",47.07,5
+453,Pollo al Curry con Arroz Basmati del Chef,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",23.51,5
+454,Cazuela de Mariscos del Chef,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",32.84,5
+455,Bruschetta de Tomate y Albahaca del Chef,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",9.06,5
+456,Patatas Bravas del Chef,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",9.32,5
+457,Filete Mignon del Chef,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.42,5
+458,Edamame al Vapor del Chef,"Una variacion de nuestro plato 'Edamame al Vapor'. Vainas de soja jovenes hervidas y sazonadas con sal marina.",8.64,5
+459,Croquetas de Jamon Serrano del Chef,"Una variacion de nuestro plato 'Croquetas de Jamon Serrano'. Cremosas croquetas rellenas de jamon serrano.",13.88,5
+460,Rollitos de Primavera del Chef,"Una variacion de nuestro plato 'Rollitos de Primavera'. Rollos fritos rellenos de vegetales y carne.",10.65,5
+461,Sushi Variado (Moriawase) del Chef,"Una variacion de nuestro plato 'Sushi Variado (Moriawase)'. Seleccion de nigiris y makis del chef.",36.31,5
+462,Brownie con Helado de Vainilla del Chef,"Una variacion de nuestro plato 'Brownie con Helado de Vainilla'. Pastelito de chocolate denso y caliente, servido con una bola de helado de vainilla.",11.77,5
+463,Lomo Saltado del Chef,"Una variacion de nuestro plato 'Lomo Saltado'. Tiras de lomo de res salteadas con cebolla, tomate, papas fritas y servido con arroz.",23.18,5
+464,Carpaccio de Res del Chef,"Una variacion de nuestro plato 'Carpaccio de Res'. Finas laminas de carne de res cruda con alcaparras, parmesano y aceite de oliva.",18.98,5
+465,Provoleta a la Parrilla del Chef,"Una variacion de nuestro plato 'Provoleta a la Parrilla'. Queso provolone a la parrilla con oregano y un toque de aceite de oliva.",14.44,5
+466,Alitas de Pollo BBQ del Chef,"Una variacion de nuestro plato 'Alitas de Pollo BBQ'. Alitas de pollo fritas y banadas en salsa barbacoa.",16.63,5
+467,Ensalada Caprese del Chef,"Una variacion de nuestro plato 'Ensalada Caprese'. Rodajas de tomate y mozzarella fresca con hojas de albahaca y aceite balsamico.",15.19,5
+468,Cochinillo Asado del Chef,"Una variacion de nuestro plato 'Cochinillo Asado'. Cochinillo tierno y crujiente asado lentamente.",43.33,5
+469,Tacos al Pastor del Chef,"Una variacion de nuestro plato 'Tacos al Pastor'. Carne de cerdo marinada cocinada en un trompo, servida en tortillas de maiz con pina.",21.13,5
+470,Fettuccine Alfredo con Pollo del Chef,"Una variacion de nuestro plato 'Fettuccine Alfredo con Pollo'. Pasta fettuccine en una rica salsa de crema y queso parmesano con pollo a la parrilla.",20.50,5
+471,Tostadas de Tinga de Pollo del Chef,"Una variacion de nuestro plato 'Tostadas de Tinga de Pollo'. Tostadas crujientes con pollo deshebrado en salsa de chipotle.",12.42,5
+472,Milanesa a la Napolitana del Chef,"Una variacion de nuestro plato 'Milanesa a la Napolitana'. Filete de res empanizado, cubierto con salsa de tomate, jamon y queso mozzarella.",27.06,5
+473,Pescado a la Talla del Chef,"Una variacion de nuestro plato 'Pescado a la Talla'. Pescado entero marinado con adobo rojo y verde, asado a las brasas.",29.62,5
+474,Pad Thai del Chef,"Una variacion de nuestro plato 'Pad Thai'. Fideos de arroz salteados con camarones o pollo, tofu, brotes de soja y mani.",19.16,5
+475,Satay de Pollo del Chef,"Una variacion de nuestro plato 'Satay de Pollo'. Brochetas de pollo marinado y a la parrilla, servidas con salsa de mani.",13.43,5
+476,Ramen de Cerdo (Tonkotsu) del Chef,"Una variacion de nuestro plato 'Ramen de Cerdo (Tonkotsu)'. Sopa de fideos japonesa con caldo de cerdo, chashu, huevo marinado y nori.",25.92,5
+477,Pulpo a la Gallega del Chef,"Una variacion de nuestro plato 'Pulpo a la Gallega'. Pulpo cocido con papas, pimenton y aceite de oliva.",27.00,5
+478,Risotto de Champinones del Chef,"Una variacion de nuestro plato 'Risotto de Champinones'. Arroz arboreo cremoso cocinado con champinones frescos y parmesano.",26.13,5
+479,Guacamole con Totopos del Chef,"Una variacion de nuestro plato 'Guacamole con Totopos'. Aguacate machacado con cebolla, cilantro, tomate y chile, servido con chips de maiz.",10.66,5
+480,Costillas de Cerdo en Salsa BBQ del Chef,"Una variacion de nuestro plato 'Costillas de Cerdo en Salsa BBQ'. Costillar de cerdo horneado lentamente y banado en salsa barbacoa.",32.22,5
+481,Sopa de Tortilla del Chef,"Una variacion de nuestro plato 'Sopa de Tortilla'. Caldo de tomate con tiras de tortilla frita, aguacate, queso y crema.",13.20,5
+482,Goulash Hungaro del Chef,"Una variacion de nuestro plato 'Goulash Hungaro'. Estofado de carne de res con pimenton, servido con noquis o pan.",24.18,5
+483,Bife de Chorizo con Chimichurri del Chef,"Una variacion de nuestro plato 'Bife de Chorizo con Chimichurri'. Corte de carne de res a la parrilla servido con salsa chimichurri.",37.10,5
+484,Empanadas de Carne del Chef,"Una variacion de nuestro plato 'Empanadas de Carne'. Masa rellena de carne molida sazonada, horneada o frita.",11.33,5
+485,Spaghetti alla Carbonara del Chef,"Una variacion de nuestro plato 'Spaghetti alla Carbonara'. Pasta con huevo, queso pecorino, panceta y pimienta negra.",20.52,5
+486,Paella Valenciana del Chef,"Una variacion de nuestro plato 'Paella Valenciana'. Arroz con azafran, pollo, conejo, judias verdes y garrofon.",34.02,5
+487,Queso Fundido con Chorizo del Chef,"Una variacion de nuestro plato 'Queso Fundido con Chorizo'. Mezcla de quesos derretidos con chorizo, servido con tortillas.",15.42,5
+488,Nachos Supremos del Chef,"Una variacion de nuestro plato 'Nachos Supremos'. Totopos cubiertos con queso, frijoles, carne, guacamole, crema y jalapenos.",19.82,5
+489,Pato a la Naranja del Chef,"Una variacion de nuestro plato 'Pato a la Naranja'. Pato asado con una salsa agridulce de naranja.",33.58,5
+490,Salmon a la Plancha con Verduras del Chef,"Una variacion de nuestro plato 'Salmon a la Plancha con Verduras'. Filete de salmon a la plancha con esparragos y brocoli al vapor.",27.08,5
+491,Mole Poblano con Pollo del Chef,"Una variacion de nuestro plato 'Mole Poblano con Pollo'. Piezas de pollo banadas en una compleja salsa de chiles, especias y chocolate.",23.14,5
+492,Ceviche de Pescado Clasico del Chef,"Una variacion de nuestro plato 'Ceviche de Pisco Clasico'. Trozos de pescado fresco marinados en jugo de limon con cebolla morada y cilantro.",21.16,5
+493,Lasagna Bolognesa del Chef,"Una variacion de nuestro plato 'Lasagna Bolognesa'. Capas de pasta con salsa bolonesa, bechamel y queso parmesano, horneada.",24.18,5
+494,Tiramisu del Chef,"Una variacion de nuestro plato 'Tiramisu'. Postre italiano de capas de bizcochos de soletilla mojados en cafe, crema de mascarpone y cacao.",12.44,5
+495,Churrasco Brasileno del Chef,"Una variacion de nuestro plato 'Churrasco Brasileno'. Seleccion de carnes a la espada servidas en la mesa.",47.07,5
+496,Pollo al Curry con Arroz Basmati del Chef,"Una variacion de nuestro plato 'Pollo al Curry con Arroz Basmati'. Trozos de pollo en una cremosa salsa de curry, servido con arroz basmati.",23.97,5
+497,Cazuela de Mariscos del Chef,"Una variacion de nuestro plato 'Cazuela de Mariscos'. Surtido de mariscos cocidos en un caldo aromatico.",32.84,5
+498,Bruschetta de Tomate y Albahaca del Chef,"Una variacion de nuestro plato 'Bruschetta de Tomate y Albahaca'. Pan tostado con tomates frescos, ajo, albahaca y aceite de oliva.",9.13,5
+499,Patatas Bravas del Chef,"Una variacion de nuestro plato 'Patatas Bravas'. Papas cortadas en cubos, fritas y servidas con salsa brava picante.",9.33,5
+500,Filete Mignon del Chef,"Una variacion de nuestro plato 'Filete Mignon'. Corte de solomillo de res envuelto en tocino, cocinado al termino deseado.",46.43,5
